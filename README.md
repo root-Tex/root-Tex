@@ -36,15 +36,11 @@ I'm Jean, welcome to my space, you will find projects developed in different tec
 
 ![Tex GitHub stats](https://github-readme-stats.vercel.app/api?username=root-Tex&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root-Tex&&theme=dark&show_layout=compact)
-
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=radical"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=blocage&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
-<a href=#><img src="contributions.svg"></a>![Uploading contributions.svg…]()
-
+<a href=#><img src="contributions.svg"></a>
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+  <img src="https://profile-counter.glitch.me/_root-Tex/count.svg" />
 </p>
 
 ![BANNER GITHUB 2](https://github.com/user-attachments/assets/0f798d69-627e-4b72-84f1-8f2d0647b71c)
